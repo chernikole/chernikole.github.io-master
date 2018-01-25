@@ -1,13 +1,5 @@
 # chernikole.github.io
 
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>тест</title>
-  </head>
-  <body>
-	
-
 О моей жизни и личности
 
 
@@ -51,5 +43,3 @@
 
 <nikoleta731@gmail.com>
 
- </body>
-</html>
